@@ -1,0 +1,247 @@
+[
+  {
+    "id": "character_mansion_staff",
+    "name_jp": "屋敷の使用人",
+    "name_en": "Mansion Servants / Staff",
+    "name_ru": "Прислуга особняка Тэндо",
+    "gender": "unknown",
+    "age_group": "adult",
+    "role": "Второстепенные персонажи / коллеги Эйто, домашний персонал особняка",
+    "status": "active",
+    "validation_status": "provisional",
+    "occurrences_count": 3,
+    "aliases": [
+      "Коллеги",
+      "Слуги особняка",
+      "Прислуга"
+    ],
+    "personality_and_traits": "Персонал особняка Тэндо. Выполняют уборку (включая сбор осколков разбитых чашек по просьбе Эйто) и привлекаются Хосинэ для создания романтических ситуаций с Эйто.",
+    "speech_summary": "В диалогах напрямую участия не принимают.",
+    "type": "character",
+    "first_seen_chapter": "chapter00.5"
+  },
+  {
+    "id": "character_schoolmates",
+    "name_jp": "生徒たち / 学園の女子生徒",
+    "name_en": "High School Students / Female Admirers",
+    "name_ru": "Ученики школы / поклонницы Эйто («вороватые кошки»)",
+    "gender": "mixed",
+    "age_group": "teenager",
+    "role": "Второстепенные персонажи / массовка старшей школы",
+    "status": "active",
+    "validation_status": "provisional",
+    "occurrences_count": 4,
+    "aliases": [
+      "Одноклассники",
+      "Ученики",
+      "Поклонницы",
+      "Вороватые кошки"
+    ],
+    "personality_and_traits": "Ученики старшей школы. Восхищаются талантами и внешностью Хосинэ. Девушки школы активно восхищаются Эйто, признаются ему в любви несколько дней подряд, благодарят за помощь в учёбе, хвалят за футбольную игру и зазывают в театральный кружок.",
+    "speech_summary": "Эмоциональная, дружелюбная и восторженная подростковая речь.",
+    "type": "character",
+    "first_seen_chapter": "chapter00.5"
+  },
+  {
+    "id": "term_idol",
+    "term_jp": "アイドル",
+    "term_en": "Idol",
+    "term_ru": "айдол",
+    "category": "cultural_concept",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Японский медийный термин: юная поп-звезда, певица или фотомодель с безупречным публичным образом. Одноклассники отмечают, что красота Хосинэ затмевает любых айдолов.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter00.5"
+  },
+  {
+    "id": "rel_eito_schoolmates",
+    "characters": [
+      "character_eito",
+      "character_schoolmates"
+    ],
+    "pair": [
+      "character_eito",
+      "character_schoolmates"
+    ],
+    "register": "formal / informal_tu",
+    "validation_status": "provisional",
+    "dynamics": "Эйто чрезвычайно популярен у девушек школы. Он неизменно вежлив, помогает с учёбой, но категорически и вежливо отклоняет любые признания в любви, ссылаясь на преданность госпоже.",
+    "note": "Регистр речи: вежливо-сдержанный.",
+    "type": "relationship",
+    "first_seen_chapter": "chapter00.5"
+  },
+  {
+    "id": "character_kazami_mother",
+    "name_jp": "風見の母",
+    "name_en": "Kazami's Mother",
+    "name_ru": "Мать Юкимити Кадзами",
+    "gender": "female",
+    "age_group": "adult",
+    "role": "Мать Юкимити Кадзами, инженер",
+    "status": "mentioned",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "aliases": [
+      "Мать Кадзами"
+    ],
+    "personality_and_traits": "Мать Юкимити Кадзами. Работает профессиональным инженером. Юкимити с ранних лет помогал ей в различных технических проектах, благодаря чему приобрёл выдающиеся навыки ручного труда и конструирования.",
+    "speech_summary": "В главе лично не появляется (упоминание).",
+    "type": "character",
+    "first_seen_chapter": "chapter02"
+  },
+  {
+    "id": "term_game_of_life",
+    "term_jp": "人生ゲーム（仮）",
+    "term_en": "The Game of Life (Provisional)",
+    "term_ru": "«Игра в жизнь (черновой вариант)» / «Игра в жизнь»",
+    "category": "item",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Самодельная настольная игра фабричного качества, изготовленная Юкимити Кадзами по тайным чертежам Хосинэ Тэндо на основе официальной настольной игры «Игра в жизнь» (The Game of Life / 人生ゲーム). Поле покрыто непрозрачными стикерами с романтическими командами (сплести пальцы рук, обниматься 10 секунд, нести на руках как принцессу, назвать 10 любимых качеств соседа). Использовалась Хосинэ в попытке сломить дистанцию между ней и Эйто.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter02"
+  },
+  {
+    "id": "term_princess_carry",
+    "term_jp": "お姫様抱っこ",
+    "term_en": "princess carry",
+    "term_ru": "ношение на руках как принцессу / «на руках, как принцессу»",
+    "category": "slang",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Популярный романтический приём в японской культуре/манге: подхватывание девушки двумя руками на уровне груди («на руках как принцессу»). Одно из ключевых заданий в самодельной игре Хосинэ, которое Эйто выполнил с лёгкостью благодаря силе.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter02"
+  },
+  {
+    "id": "term_dom_perignon",
+    "term_jp": "ドンペリ / ドン・ペリニヨン",
+    "term_en": "Dom Pérignon / Dom Peri",
+    "term_ru": "«Дом Периньон»",
+    "category": "cultural_concept",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Премиальное французское шампанское, атрибут роскошных празднований и японских хост-клубов (башни из шампанского). Хосинэ в бреду любви восклицает, что готова открыть 20 000 бутылок «Дом Периньон», лишь бы Эйто повторил, что она для него особенная.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter02"
+  },
+  {
+    "id": "character_habataki_father",
+    "name_jp": "羽畠父 / 音羽の父",
+    "name_en": "Habataki Father / Otoha's Father",
+    "name_ru": "Хабатаки-отец / Отец Отохи",
+    "gender": "male",
+    "age_group": "adult",
+    "role": "Отец Хабатаки Отохи, вдовец",
+    "status": "active",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "aliases": [
+      "Отец Отохи",
+      "Хабатаки-отец",
+      "отец"
+    ],
+    "personality_and_traits": "Строгий, серьёзный мужчина, глубоко переживавший смерть любимой жены-певицы. Думал, что Отоха поёт лишь из-за детской травмы и привязанности к прошлому, поэтому запретил ей петь («Не смей больше петь»), желая отпустить её в будущее. После побега дочери и откровенного разговора осознал, что она искренне любит петь, раскаялся в своей резкости и примирился с ней.",
+    "speech_summary": "Сдержанная, серьёзная, глубоко эмоциональная речь взрослого мужчины, признающего свои ошибки перед дочерью.",
+    "type": "character",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "character_habataki_mother",
+    "name_jp": "羽畠母 / 音羽の母",
+    "name_en": "Habataki Mother / Otoha's Mother",
+    "name_ru": "Мать Отохи",
+    "gender": "female",
+    "age_group": "adult",
+    "role": "Покойная мать Хабатаки Отохи, певица",
+    "status": "deceased",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "aliases": [
+      "Мама Отохи",
+      "покойная певица"
+    ],
+    "personality_and_traits": "Покойная мать Хабатаки Отохи. Была выдающейся певицей, чей волшебный голос смягчал даже строгое лицо её мужа. Ушла из жизни, когда Отоха была маленькой, что стало тяжёлым ударом для семьи.",
+    "speech_summary": "В главе лично не появляется (упоминание в воспоминаниях).",
+    "type": "character",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "term_dance_game",
+    "term_jp": "ダンスゲーム",
+    "term_en": "Dance Game",
+    "term_ru": "танцевальный автомат / танцевальная игра",
+    "category": "entertainment",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Аркадный ритм-автомат в виде конвейерной ленты с монитором и сенсорными панелями для ног. Поддерживает совместный режим танца, в котором Эйто и Отоха установили рекордный счёт на максимальной сложности под песню Дивы.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "term_romantic_flag",
+    "term_jp": "フラグ / 恋愛フラグ",
+    "term_en": "Flag / Romantic Flag",
+    "term_ru": "романтический флаг / флаг",
+    "category": "slang",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Метафорический термин из визуальных новелл: событие или поступок протагониста, запускающий романтическую ветку отношений с девушкой (например, спасение от падения или совместный побег). Хосинэ панически боится флагов, которые Эйто непреднамеренно поднимает с девушками.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "term_human_wave_tactics",
+    "term_jp": "人海戦術",
+    "term_en": "Human-wave tactic",
+    "term_ru": "тактика «людской волны»",
+    "category": "idiom",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Метод решения масштабной задачи за счёт привлечения огромного числа людей. Хосинэ задействовала весь подконтрольный персонал и службы конгломерата «Тэндо Групп», чтобы прочесать город и собрать сведения об Эйто.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "location_arcade",
+    "name_jp": "ゲームセンター",
+    "name_en": "Game Center / Arcade",
+    "name_ru": "Игровой центр / Аркадный зал",
+    "category": "entertainment",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Городской зал аркадных автоматов, куда Эйто привёл Отоху во время её побега. Место их совместной игры в танцевальный автомат под песню Дивы, собравшей толпу зевак.",
+    "type": "location",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "location_city_park",
+    "name_jp": "大きな池のある公園",
+    "name_en": "Park with a Large Pond",
+    "name_ru": "Городской парк с большим прудом",
+    "category": "urban",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Просторный городской парк с живописным прудом, куда Эйто и Отоха сбежали от толпы из аркадного зала. Место их доверительного разговора по душам, осознания Отохой любви к пению и последующей встречи с запыхавшейся Хосинэ.",
+    "type": "location",
+    "first_seen_chapter": "chapter03"
+  },
+  {
+    "id": "rel_otoha_habataki_father",
+    "characters": [
+      "character_habataki_otoha",
+      "character_habataki_father"
+    ],
+    "pair": [
+      "character_habataki_otoha",
+      "character_habataki_father"
+    ],
+    "register": "informal_family",
+    "validation_status": "provisional",
+    "dynamics": "Семейные отношения отца и дочери, осложнённые потерей матери. Отоха пела, чтобы утешить отца, а отец, полагая, что песня привязывает её к прошлому, запретил ей петь («Не смей больше петь»), вызвав у неё шок и психогенную потерю голоса. После побега Отоха нашла в себе силы сказать отцу, что поёт ради себя, а отец посмотрел ей в глаза, раскаялся в своей ошибке и попросил прощения, восстановив мир в семье.",
+    "note": "Регистр речи: семейный (Отоха: почтительно-доверительный к отцу; отец: сдержанный, глубоко раскаявшийся).",
+    "type": "relationship",
+    "first_seen_chapter": "chapter03"
+  }
+]

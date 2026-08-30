@@ -1,0 +1,40 @@
+{
+  "project": "tenbin",
+  "source_chapter": "chapter04",
+  "generated_at": "2026-08-27T21:00:00Z",
+  "summary": {
+    "total_proposals": 2,
+    "add_to_master": 1,
+    "add_to_candidates": 1,
+    "promotions": 0
+  },
+  "proposals": [
+    {
+      "action": "ADD",
+      "target_file": "characters.json",
+      "entry": {
+        "id": "character_elora",
+        "name_jp": "エロラ",
+        "name_en": "Elora",
+        "name_ru": "Элора",
+        "gender": "female",
+        "role": "командир отряда разведки",
+        "validation_status": "confirmed",
+        "occurrences_count": 3
+      }
+    },
+    {
+      "action": "ADD",
+      "target_file": "candidates.json",
+      "entry": {
+        "id": "term_crystal_comm",
+        "name_jp": "通信水晶",
+        "name_en": "Communication Crystal",
+        "name_ru": "кристалл связи",
+        "category": "magic_item",
+        "validation_status": "provisional",
+        "occurrences_count": 1
+      }
+    }
+  ]
+}

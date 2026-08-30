@@ -1,0 +1,44 @@
+{
+  "locations": [
+    {
+      "id": "location_tendou_mansion",
+      "name_jp": "天堂家の屋敷",
+      "name_en": "Tendou Mansion",
+      "name_ru": "Особняк семьи Тэндо",
+      "category": "residence",
+      "validation_status": "confirmed",
+      "occurrences_count": 5,
+      "description": "Роскошный особняк семьи Тэндо. Оснащён штатом прислуги, элитным автопарком с шофёрами и антикварными сервизами за миллионы иен. Место постоянного проживания Хосинэ, её родителей и Эйто."
+    },
+    {
+      "id": "location_high_school",
+      "name_jp": "高校 / 学園",
+      "name_en": "High School / Academy",
+      "name_ru": "Старшая школа / Академия",
+      "category": "educational_institution",
+      "validation_status": "confirmed",
+      "occurrences_count": 6,
+      "description": "Престижная старшая школа, где учатся Хосинэ и Эйто. Располагает учебными классами, спортивными площадками (футбол, теннис) и кружками (театральный кружок, теннисный клуб). Место скопления поклонниц Эйто и одноклассников Хосинэ."
+    },
+    {
+      "id": "location_tenjouin_class_1a",
+      "name_jp": "天条院学園 高等部1年A組",
+      "name_en": "Tenjouin Academy High School Class 1-A",
+      "name_ru": "Класс 1-«А» старшей школы академии «Тэндзёин»",
+      "category": "academic",
+      "validation_status": "confirmed",
+      "occurrences_count": 5,
+      "description": "Класс старшей школы, куда весной поступили Эйто, Хосинэ и Юкимити. В конце главы 3 сюда в качестве переводной ученицы переводится знаменитая певица Хабатаки Отоха."
+    },
+    {
+      "id": "location_station_plaza",
+      "name_jp": "駅前広場",
+      "name_en": "Station Plaza",
+      "name_ru": "Привокзальная площадь",
+      "category": "urban",
+      "validation_status": "confirmed",
+      "occurrences_count": 6,
+      "description": "Площадь перед железнодорожной станцией по пути от академии. Место, где Эйто спас незнакомую девушку от хулиганов и куда Хосинэ решает пойти, чтобы сменить тактику."
+    }
+  ]
+}

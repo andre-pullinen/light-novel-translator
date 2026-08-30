@@ -1,0 +1,1046 @@
+{
+  "lore": [
+    {
+      "id": "tsukinose_rural_culture",
+      "title_ru": "Сельский уклад и традиции деревни Цукиносэ",
+      "title_jp": "月ノ瀬の農村文化と伝統",
+      "title_en": "Rural Culture and Traditions of Tsukinose",
+      "category": "worldbuilding_setting",
+      "summary": "Традиционный уклад жизни изолированной горной деревни Цукиносэ с дикой природой, отсутствием городского сервиса и культурой общинных банкетов.",
+      "details": "Цукиносэ — отдаленная горная деревня в окружении рек и лесов. Общественный транспорт ходит всего 4 раза в день, кругом встречаются уличные автоматы для шлифовки риса, а в старой деревянной школе протекает крыша. На дорогах обычны встречи с дикими зверями (кабаны, обезьяны, олени), для защиты от которых жители ставят капканы. Сельские жители регулярно собираются на общие застолья с крепким сётю и домашними закусками, на которых Хаято с детства освоил кулинарное искусство (включая сочный дасимаки тамаго на бульоне из тунца).",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "himeko_kirishima",
+        "gen_jii"
+      ],
+      "related_locations": [
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "urban_rural_contrast",
+      "title_ru": "Контраст городской и деревенской жизни",
+      "title_jp": "都会と田舎のギャップ",
+      "title_en": "Urban vs Rural Lifestyle Contrast",
+      "category": "worldbuilding_setting",
+      "summary": "Психологический и бытовой разрыв между патриархальной тишиной Цукиносэ и технологичным городским окружением.",
+      "details": "Переехав в город, семья Кирисима сталкивается с резкой сменой среды: бетонные многоэтажки, станции поездов в шаговой доступности, шум автострад вместо цикад и яркие фонари, закрывающие звезды. Отсутствие автоматов для риса повергает Химэко в шок, а возможность зайти в круглосуточный комбини поздно вечером воспринимается как запретное захватывающее приключение.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "new_city",
+        "tsukinose",
+        "city_supermarket"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "yamato_nadeshiko_mask",
+      "title_ru": "Публичный фасад «ямато-надэсико» Харуки Никайдо",
+      "title_jp": "二階堂春希の「大和撫子」の仮面",
+      "title_en": "Haruki Nikaido's 'Yamato Nadeshiko' Public Persona",
+      "category": "social_environment",
+      "summary": "Идеальный образ утонченной отличницы, созданный Харуки в городской школе для сокрытия своего истинного сорванцового характера.",
+      "details": "В детстве в Цукиносэ Харуки была гиперактивной пацанкой со сбитыми коленками. Переехав в город раньше Хаято, она выстроила безупречную маску «ямато-надэсико» (утонченная красавица с аккуратной косой, отличница, вежливая и недосягаемая). Поддержание этой роли вызывает колоссальное эмоциональное напряжение, от которого она спасается наедине с Хаято и в тайной комнате старого корпуса, возвращаясь к пацанским повадкам, играм и прямоте.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "high_school",
+        "class_1a",
+        "secret_base_old_school_building"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "kashi_kari_debt_system",
+      "title_ru": "Детская игровая механика «долгов» (каси/кари)",
+      "title_jp": "幼馴染の「貸し借り」ルール",
+      "title_en": "Childhood 'Kashi/Kari' Debt System",
+      "category": "relationship_mechanic",
+      "summary": "Уникальная игровая система взаимных символических обязательств между Хаято и Харуки, служащая маркером их близости.",
+      "details": "Зародилась в детстве в Цукиносэ: «долг» начисляется за проигрыш в спорах или видеоиграх, насмешки, подколы («обезьяний ёкай») или вынужденные услуги (проводить до дома, угостить обедом). Долги никогда не имеют денежного эквивалента и не списываются, выполняя роль бессрочного повода для встреч, поддразниваний и сохранения эмоциональной связи.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "haruki_house",
+        "secret_base_old_school_building",
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "school_gardening_plot",
+      "title_ru": "Пришкольный огород и агрономические тонкости",
+      "title_jp": "学校の裏庭菜園と農作業",
+      "title_en": "School Gardening Plot and Agronomy Lore",
+      "category": "cultural_custom",
+      "summary": "Участок клуба садоводства за школой, ставший местом сближения Хаято и Минамо Митакэ благодаря сельскому опыту Хаято.",
+      "details": "На заднем дворе школы за кирпичной оградкой клуб садоводства выращивает цукини, перцы сисито, баклажаны, кукурузу и томаты. Хаято делится с робкой Митакэ деревенскими приемами: утреннее ручное опыление женских цветков цукини мужской пыльцой и обрезка лишних ветвей сисито для обильного плодоношения.",
+      "related_characters": [
+        "hayato_kirishima",
+        "mitake",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "school_garden",
+        "high_school"
+      ],
+      "first_seen_chapter": "chapter02",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "kirishima_family_circumstances",
+      "title_ru": "Семейные обстоятельства и быт семьи Кирисима",
+      "title_jp": "霧島家の家庭事情と生活",
+      "title_en": "Kirishima Family Relocation and Household Lore",
+      "category": "backstory_event",
+      "summary": "Причины переезда семьи Кирисима из деревни в город, болезнь матери и перераспределение домашних обязанностей.",
+      "details": "Семья переехала из просторного деревенского дома в компактную городскую квартиру (планировка 3LDK на 6-м этаже) из-за внезапного перевода отца по службе. Мать находится на стационарном лечении в городской больнице, куда отец ежедневно ездит после работы. На плечи Хаято легло ведение домашнего хозяйства и забота о младшей сестре Химэко, которая болезненно переживает разлуку с мамой и адаптацию в новой школе.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima",
+        "father_kirishima",
+        "mother_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "hospital",
+        "new_city"
+      ],
+      "first_seen_chapter": "chapter03",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "snack_200yen_budget_rule",
+      "title_ru": "Семейное правило лимита на сладости в 200 иен",
+      "title_jp": "おやつ200円ルール",
+      "title_en": "200-Yen Snack Budget Rule",
+      "category": "cultural_custom",
+      "summary": "Финансовое ограничение семьи Кирисима на покупку лакомств во время совместных продуктовых походов.",
+      "details": "Установлено Хаято во время совместных закупок в городском супермаркете, чтобы удерживать семейный бюджет и отвлекать Химэко от грустных мыслей о больнице. Химэко скрупулезно высчитывает стоимость сладостей, чтобы уложиться в 200 иен.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "city_supermarket",
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter03",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "secret_base_sanctuary",
+      "title_ru": "Секретная база в старом школьном корпусе",
+      "title_jp": "旧校舎の秘密基地",
+      "title_en": "Secret Base in the Old School Building",
+      "category": "worldbuilding_setting",
+      "summary": "Изолированная комната в старом корпусе школы, служащая тайным убежищем Харуки и местом их с Хаято уединенных обедов.",
+      "details": "Небольшая пустая комната с деревянным полом и окном, окруженная неиспользуемыми кладовками старого корпуса, где царит полная тишина. Харуки раздобыла ключ и обустроила убежище от школьной суеты, купив две подушки без наволочек за 200 иен в стоиеннике. Здесь они с Хаято ежедневно вместе обедают своими бэнто, не опасаясь любопытных глаз одноклассников.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "secret_base_old_school_building",
+        "high_school"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "local_media_gossip",
+      "title_ru": "Съемки дорамы «Десять лет одиночества» и школьные слухи",
+      "title_jp": "ドラマ「10年の孤独」と学校の噂話",
+      "title_en": "Drama 'Ten Years of Solitude' and School Gossip",
+      "category": "social_environment",
+      "summary": "Популярный драматический телесериал, съемки которого возле школы стали катализатором школьных сплетен.",
+      "details": "Съемки известной дорамы «Десять лет одиночества» с популярной актрисой Такурой Мао в окрестностях школы взбудоражили класс 1-А. На переменах школьники бурно обсуждают знаменитостей и сплетничают о романах между учениками параллельных классов (Цуруми из 1-А и Канэмия из 1-D).",
+      "related_characters": [
+        "class_1a_students",
+        "iori_mori",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "class_1a",
+        "high_school"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_secret_otaku_hobbies",
+      "title_ru": "Тайные отаку-увлечения Харуки (пламо, сёкуган, игры)",
+      "title_jp": "二階堂春希の隠れオタク趣味",
+      "title_en": "Haruki Nikaido's Secret Otaku and Collector Hobbies",
+      "category": "cultural_custom",
+      "summary": "Коллекционирование и моделизм Харуки, которые она тщательно скрывает от всего класса.",
+      "details": "Вопреки публичному образу утонченной леди, комната Харуки заставлена полками с мангой, приставками, коллекционными фигурками из коробочек (сёкуган) и масштабными сборными пластиковыми моделями роботов (пламо). Она закупает инструменты и глину в стоиеннике и с азартом погружается в «болото» коллекционного хобби.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "haruki_house",
+        "city_supermarket"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "tsukinose_dagashiya_memories",
+      "title_ru": "Воспоминания о лавке сладостей бабушки Мурао в Цукиносэ",
+      "title_jp": "月ノ瀬の駄菓子屋と村尾ばあちゃんの思い出",
+      "title_en": "Memories of Grandma Murao's Dagashiya in Tsukinose",
+      "category": "backstory_event",
+      "summary": "Ностальгический образ традиционной сельской лавки сладостей, служившей центром детского досуга в Цукиносэ.",
+      "details": "Традиционная лавчонка сладостей (дагасия) эпохи Сёва, которой владела бабушка Мурао в деревне Цукиносэ. Место, где Хаято, Харуки и Химэко в детстве покупали дешевые сладости, крутили автоматы с гатей и прятались от летнего зноя. Служит общим ностальгическим якорем их дружбы.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "retro_action_rpg_sessions",
+      "title_ru": "Совместные прохождения классической экшен-РПГ",
+      "title_jp": "アクションRPGの協力プレイ",
+      "title_en": "Co-op Retro Action RPG Gaming Sessions",
+      "category": "relationship_mechanic",
+      "summary": "Кооперативные игровые сессии Харуки и Хаято дома у Никайдо, отражающие их слаженность и взаимное доверие.",
+      "details": "Харуки и Хаято играют на приставке в ремейк классической ролевой экшен-игры эпохи до их рождения. Харуки выбирает агрессивного воина-зверолюда с парными топорами и рвется напролом, а Хаято играет за сбалансированного мечника-наемника, прикрывающего ее тыл. Игра подчеркивает сохранение их детской командной динамики.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter06",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "mitake_horticulture_bond",
+      "title_ru": "Сбор урожая и агрономическая дружба с Минамо Митакэ",
+      "title_jp": "三宅水藻との収穫と交流",
+      "title_en": "Horticultural Bond and Harvest with Minamo Mitake",
+      "category": "relationship_mechanic",
+      "summary": "Совместный уход за пришкольным огородом, раскрывающий полное имя Митакэ и вызывающий скрытую ревность Харуки.",
+      "details": "В главе 6 Хаято и Минамо Митакэ (ученица класса 1-C) собирают первый богатый урожай цукини, томатов и баклажанов. Смущенная Митакэ делится урожаем и берет с Хаято обещание обменяться телефонными контактами при покупке смартфона. Харуки, застав их вместе, проявляет собственническую реакцию «школьной королевы».",
+      "related_characters": [
+        "hayato_kirishima",
+        "mitake",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "school_garden",
+        "high_school"
+      ],
+      "first_seen_chapter": "chapter06",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "night_konbini_reunion",
+      "title_ru": "Ночная вылазка в комбини и воссоединение подруг детства",
+      "title_jp": "夜のコンビニ探検と幼馴染の再会",
+      "title_en": "Night Konbini Expedition and Childhood Friends Reunion",
+      "category": "backstory_event",
+      "summary": "Первый ночной поход Хаято и Химэко в городской комбини, приведший к неожиданной встрече с Харуки после 7 лет разлуки.",
+      "details": "В главе 7 Химэко наряжается ради непривычной для деревенских жителей ночной вылазки за мороженым в круглосуточный комбини. У входа они сталкиваются с Харуки, забежавшей за бэнто в домашней одежде. После бурной сцены узнавания Химэко и Харуки возобновляют теплое общение за ужином с пастой рататуй в квартире Кирисима.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "city_supermarket",
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter07",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "summer_food_traditions",
+      "title_ru": "Летние кулинарные традиции семьи Кирисима",
+      "title_jp": "霧島家の夏の食卓と冷やしうどん",
+      "title_en": "Summer Culinary Traditions of the Kirishima Household",
+      "category": "cultural_custom",
+      "summary": "Освежающие летние блюда, которые Хаято готовит для поддержания сил и поднятия настроения сестры в знойные дни.",
+      "details": "В знойную летнюю пору Хаято готовит холодный салат-удон со свининой сябу-сябу (хи Normalи бута-сябу сарада удон), свежими овощами и густой кунжутной заправкой (гома-дарэ) — любимое спасительное блюдо Химэко, спасающее от жары и апатии.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter08",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_solitary_home_life",
+      "title_ru": "Одинокий быт Харуки и дефицит домашнего тепла",
+      "title_jp": "二階堂春希の孤独な一人暮らし",
+      "title_en": "Haruki Nikaido's Solitary Living and Emotional Vulnerability",
+      "category": "backstory_event",
+      "summary": "Мрачная изнанка самостоятельной жизни Харуки в темном двухэтажном доме без родителей.",
+      "details": "В главе 9 Хаято заглядывает в гостиную дома Харуки и видит закрытые средь бела дня ставни, нераспакованную пыльную мебель и мусорные мешки с коробками от замороженных полуфабрикатов и бэнто из комбини. Выясняется, что Харуки живет совершенно одна как единственный ребенок в семье, скрывая за внешней улыбкой глубокое одиночество и бытовую беспомощность.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter09",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "daily_dinner_pact",
+      "title_ru": "Обещание ежедневных совместных ужинов (клятва на мизинцах)",
+      "title_jp": "毎日の夕食の約束（指切り）",
+      "title_en": "Daily Dinner Pact and Pinky Promise",
+      "category": "relationship_mechanic",
+      "summary": "Договоренность о совместных ежедневных семейных трапезах, скрепленная клятвой на мизинцах между Хаято и Харуки.",
+      "details": "Осознав одиночество Харуки, Хаято решительно приводит ее к себе домой, где они втроем с Химэко лепят домашние гёдза с кружевными «крылышками». Хаято предлагает Харуки приходить ужинать к ним каждый день («Потому что мы друзья»), и они скрепляют обещание традиционной клятвой на мизинцах (юбикири), что становится переломным моментом в их сближении.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter09",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "summer_end_childhood_promise",
+      "title_ru": "Детское обещание на исходе лета",
+      "title_jp": "夏の終わりの約束",
+      "title_en": "Childhood Promise at the End of Summer",
+      "category": "backstory_event",
+      "summary": "Главная сюжетная тайна и нераскрытое обещание, данное героями друг другу в детстве перед разлукой.",
+      "details": "Сквозной сюжетный мотив новеллы: некое сокровенное взаимное обещание, которое Хаято и Харуки дали друг другу на исходе лета в Цукиносэ за семь лет до основных событий, перед ее отъездом в город. Воспоминание об этом обещании подспудно определяет их взаимную преданность и эмоциональное напряжение.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "himeko_urban_middle_school_status",
+      "title_ru": "Адаптация Химэко в городской средней школе и статус талисмана класса",
+      "title_jp": "姫子の中学校生活とクラスのマスコット的存在",
+      "title_en": "Himeko's Middle School Adaptation and Mascot Status",
+      "category": "social_environment",
+      "summary": "Школьные будни Химэко в трехэтажной городской средней школе, где ее деревенская наивность сделала ее всеобщей любимицей.",
+      "details": "В отличие от сельской объединенной деревянной школы в Цукиносэ, новая средняя школа Химэко представляет собой трехэтажное бетонное здание, а форма состоит из клетчатой юбки и матроски. Химэко выделяется красотой и волнистыми волосами, но ее попытка скрыть деревенское прошлое провалилась в первый же день: незнание частных железных дорог, шок от отсутствия автоматов для шлифовки риса и восторг от устаревшего тренда чая с тапиокой сделали ее безоговорочным и любимым «талисманом класса» для подруги Хоноки Торикаи и одноклассниц.",
+      "related_characters": [
+        "himeko_kirishima",
+        "honoka_torikai",
+        "middle_school_classmates"
+      ],
+      "related_locations": [
+        "new_city"
+      ],
+      "first_seen_chapter": "chapter10",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "himeko_childhood_feelings_and_resolve",
+      "title_ru": "Детские чувства Химэко к Харуки и решимость стать лучшими подругами",
+      "title_jp": "姫子の春希への想いと親友になる決意",
+      "title_en": "Himeko's Childhood Feelings for Haruki and Bond of Friendship",
+      "category": "relationship_mechanic",
+      "summary": "Осознание Химэко своих детских чувств к Харуки (когда та казалась мальчиком), сожаления о разлуке с Саки и решение не упускать дружбу.",
+      "details": "В детстве Химэко испытывала детскую симпатию к Харуки, принимая ту за озорного мальчишку. Горько-сладкое осознание невозможности тех чувств и воспоминание о слезах оставленной в Цукиносэ подруги Саки Мурао (питавшей невысказанные чувства к Хаято) рождают в Химэко твердую решимость не копить сожалений. Она клянется сблизиться с Харуки, спасти ее от неряшливого мальчишеского гардероба и стать ее настоящей лучшей подругой через «дружеское свидание» и совместный шопинг.",
+      "related_characters": [
+        "himeko_kirishima",
+        "haruki_nikaido",
+        "saki_murao",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter10",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "kirishima_hospital_anxiety_and_trauma",
+      "title_ru": "Больничная тревога Хаято и Химэко из-за внезапных обмороков матери",
+      "title_jp": "母親の入院と霧島兄妹の病院へのトラウマ",
+      "title_en": "Kirishima Siblings' Hospital Anxiety and Mother's Relapse Trauma",
+      "category": "backstory_event",
+      "summary": "Тяжелые переживания Хаято и Химэко, связанные со вторым обмороком матери, атмосферой больниц и страхом за ее жизнь.",
+      "details": "Мать Хаято и Химэко пережила уже два внезапных обморока, второй из которых случился прямо на глазах у маленькой Химэко, оставив глубокий травмирующий след. Для Хаято больничные пространства неестественны и тревожны: стерильный запах дезинфекции и яркие срезанные цветы ассоциируются у него с «выставленными отрубленными головами». Однако успешная операция матери и ее бодрый настрой постепенно развеивают этот страх.",
+      "related_characters": [
+        "hayato_kirishima",
+        "mother_kirishima",
+        "himeko_kirishima",
+        "father_kirishima"
+      ],
+      "related_locations": [
+        "hospital",
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter11",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "mitake_grandfather_hospitalization_and_floristry",
+      "title_ru": "Госпитализация дедушки Митакэ и овощная флористика Минамо",
+      "title_jp": "三宅の祖父の入院と野菜の花のブーケ",
+      "title_en": "Mitake's Grandfather Hospitalization and Vegetable Flower Floristry",
+      "category": "cultural_custom",
+      "summary": "Причина особого усердия Минамо Митакэ в клубе садоводства — составление лечебных и радостных букетов для больного дедушки.",
+      "details": "Минамо Митакэ регулярно навещает своего дедушку, проходящего стационарное лечение в городской больнице. Чтобы порадовать его и заставить улыбнуться, она освоила оригинальную овощную флористику: собирает при пасынковании на школьном огороде яркие мужские цветки цукини, цветки баклажанов и томатов и составляет из них компактные композиции. Пациенты палаты обожают Минамо и ласково называют Хаято «учителем», благодаря которому она стала чаще улыбаться.",
+      "related_characters": [
+        "mitake",
+        "grandfather_mitake",
+        "hayato_kirishima",
+        "mitake_wardmates"
+      ],
+      "related_locations": [
+        "hospital",
+        "school_garden"
+      ],
+      "first_seen_chapter": "chapter11",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "saki_murao_phone_call_and_jealousy",
+      "title_ru": "Звонок Саки Мурао и вспышка ревности из-за преображения Харуки",
+      "title_jp": "村尾咲の動揺と焦燥（春希の変貌と恋の危機感）",
+      "title_en": "Saki Murao's Shock and Jealous Panic over Haruki's Transformation",
+      "category": "relationship_mechanic",
+      "summary": "Бурная эмоциональная реакция оставшейся в деревне Саки Мурао на фотографии похорошевшей Харуки и нарастающая паника из-за близости Харуки к Хаято.",
+      "details": "Увидев фотографии стильной и женственной Харуки, отправленные Химэко после шопинга, кроткая Саки мгновенно перезванивает. Осознав, что прежняя «мартышка/горилла» стала ослепительной красавицей и проводит много времени с Хаято, Саки заявляет, что «парни в этом возрасте — сущие звери», и сквозь слезы грозится приехать на летних каникулах или поступать в городскую старшую школу, чтобы не упустить свою любовь.",
+      "related_characters": [
+        "saki_murao",
+        "himeko_kirishima",
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "tsukinose",
+        "new_city",
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter12",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_and_himeko_first_urban_shopping_trip",
+      "title_ru": "Первый совместный городской шопинг Харуки и Химэко",
+      "title_jp": "春希と姫子の初めての都会ショッピング",
+      "title_en": "Haruki and Himeko's First Urban Shopping Spree",
+      "category": "cultural_custom",
+      "summary": "Субботняя вылазка подруг по Центральной улице, подбор девичьих нарядов для Харуки и укрепление их дружбы.",
+      "details": "Первая масштабная городская прогулка Химэко и Харуки по торговым улочкам Центральной улицы. Харуки в тунике и шортах с энтузиазмом примеряет женственные наряды, чтобы удивить Хаято, попутно заглядывая в хобби-маркет «Yellow Submarine», магазины игр и к автоматам-гасяпонам. Подруги едят джамбо-парфе во фруктовом кафе, а на обратном пути в поезде уставшая Харуки засыпает на плече у Химэко.",
+      "related_characters": [
+        "himeko_kirishima",
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "new_city",
+        "central_street"
+      ],
+      "first_seen_chapter": "chapter12",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_first_sleepover_and_catharsis",
+      "title_ru": "Первая ночевка Харуки в доме Кирисима и эмоциональный прорыв",
+      "title_jp": "春希の初めてのお泊まりと涙の感情解放（カタルシス）",
+      "title_en": "Haruki's First Sleepover at the Kirishima Household and Emotional Catharsis",
+      "category": "relationship_mechanic",
+      "summary": "Внезапная ночевка Харуки из-за ночного ливня, приведшая к первому за семь лет эмоциональному срыву и слезам на спине Хаято.",
+      "details": "Не желая отпускать потрясенную Харуки одну в пустой дом посреди грозового ливня, Хаято решительно предлагает ей остаться на ночевку. После купания Харуки надевает его просторную футболку и читает мангу на его кровати. Когда Хаято искренне говорит, как счастлив их воссоединению и обещает всегда приходить на помощь, Харуки не выдерживает и рыдает, уткнувшись лбом в его спину, высвобождая копившуюся семь лет боль одиночества. Изнуренная слезами, она засыпает у него на кровати, шепча во сне «...Мама...».",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter13",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "mao_takura_and_haruki_past_mystery",
+      "title_ru": "Тайна связи Мао Такуры и прошлого Харуки Никайдо",
+      "title_jp": "田倉真央と二階堂春希の過去の謎",
+      "title_en": "The Mystery of Mao Takura and Haruki Nikaido's Past",
+      "category": "backstory_event",
+      "summary": "Случайная встреча с известной актрисой Мао Такурой на уличных съемках дорамы, раскрывшая глубокую душевную травму Харуки и ее одинокое ожидание родителей.",
+      "details": "Во время прогулки по городу Хаято и Харуки натыкаются на съемки дорамы «Десять лет одиночества» с популярной актрисой Мао Такурой (известной бурной личной жизнью и разводами). Увидев Такуру, Харуки смертельно бледнеет, вцепляется ногтями в ладонь Хаято и в панике убегает. Позже она с надрывом признается, что живет в двухэтажном доме совсем одна и «послушно ждет», а засыпая, зовет маму, что связывает образ актрисы с семейной тайной Никайдо.",
+      "related_characters": [
+        "haruki_nikaido",
+        "takura_mao",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "new_city",
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter13",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "first_smartphone_and_matching_models",
+      "title_ru": "Покупка первого смартфона Хаято и выбор одинаковых моделей",
+      "title_jp": "隼人のスマートフォン購入とお揃いモデル",
+      "title_en": "Hayato's First Smartphone Purchase and Matching Models",
+      "category": "cultural_custom",
+      "summary": "Поездка за первым смартфоном для Хаято, оформление одинаковой с Харуки модели и появление прямого канала круглосуточной связи.",
+      "details": "В главе 13 Хаято покупает свой первый смартфон в салоне связи при помощи Харуки. Не колеблясь, он выбирает точно такую же модель, как у Харуки («Одинаковые ведь лучше, разве нет? Если что-то непонятно, сразу спрошу у тебя»), смущая ее намеком на пару (osoroi). Наличие смартфона позволяет Хаято пообещать Харуки, что отныне он всегда будет на связи и прибежит в любую минуту.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "new_city"
+      ],
+      "first_seen_chapter": "chapter13",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_morning_prank_and_romantic_awakening",
+      "title_ru": "Пробуждение романтических чувств Харуки и утренняя шалость с селфи",
+      "title_jp": "春希の恋心の芽生えと朝のいたずら自撮り",
+      "title_en": "Haruki's Romantic Awakening and Morning Prank Selfie",
+      "category": "relationship_mechanic",
+      "summary": "Утреннее осознание Харуки привлекательности Хаято после ночевки, попытка поцелуя и ответная озорная фотосессия в его школьной рубашке.",
+      "details": "Проснувшись в комнате Хаято после ночевки в его футболке, Харуки чувствует легкость и защищенность. Увидев спящего на диване Хаято, она впервые разглядывает его черты лица и осознает, что он привлекателен как мужчина. Почти поддавшись желанию поцеловать его в губы, она пугается нарушения дружеских границ и решает «поквитаться» за свое волнение: надевает его форменную рубашку, оставляет след на шее и делает селфи с подписью «Хаято спит рядышком со мной». Позже в классе она с озорной ухмылкой сорванца демонстрирует этот снимок ошарашенному Хаято.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "class_1a"
+      ],
+      "first_seen_chapter": "chapter14",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "eggplant_overabundance_and_contact_exchange",
+      "title_ru": "Избыток урожая баклажанов и первый обмен контактами с Минамо Митакэ",
+      "title_jp": "ナスの豊作と水藻との連絡先交換",
+      "title_en": "Eggplant Harvest Overabundance and Contact Exchange with Minamo",
+      "category": "cultural_custom",
+      "summary": "Богатый урожай пришкольного огорода после ночного ливня, обмен телефонными контактами на новом смартфоне Хаято и курьез с «засосом».",
+      "details": "После ночного ливня пришкольный огород дает избыточный урожай баклажанов и томатов. Хаято вспоминает сельское явление «бедствия от изобилия» (хосаку бинбо) и советует Минамо рецепт быстрой засолки баклажанов на ночь. Они выполняют обещание и обмениваются контактами на новом смартфоне Хаято, однако замеченный Минамо след на его шее («засос») приводит к комичному недопониманию и ее паническому бегству.",
+      "related_characters": [
+        "hayato_kirishima",
+        "mitake"
+      ],
+      "related_locations": [
+        "school_garden"
+      ],
+      "first_seen_chapter": "chapter14",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_social_opening_in_classroom",
+      "title_ru": "Эмоциональное раскрепощение Харуки и преодоление барьера в классе",
+      "title_jp": "春希の心の壁の崩壊とクラスでの変化",
+      "title_en": "Haruki's Emotional Opening and Overcoming Social Barriers in Class",
+      "category": "social_environment",
+      "summary": "Первые плоды освобождения от груза одиночества: Харуки открыто и оживленно общается с одноклассниками, показывая фотографии шопинга с Химэко.",
+      "details": "После ночного катарсиса со слезами в главе 13, в понедельник утром Харуки впервые активно и непринужденно общается с одноклассниками у парты Хаято, охотно показывая на смартфоне фотографии своего шопинга с Химэко Кирисимой. Это знаменует начало разрушения ее строгой защитной маски «недосягаемой отличницы» и появление искренней открытости к окружающим.",
+      "related_characters": [
+        "haruki_nikaido",
+        "himeko_kirishima",
+        "class_1a_students",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "class_1a",
+        "high_school"
+      ],
+      "first_seen_chapter": "chapter14",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_homecoming_and_belonging",
+      "title_ru": "Обретение Харуки домашнего тепла и ритуал «Я дома — С возвращением»",
+      "title_jp": "春希の居場所の獲得と「ただいま・おかえり」",
+      "title_en": "Haruki's Sense of Belonging and the 'Tadaima / Okaeri' Homecoming",
+      "category": "relationship_mechanic",
+      "summary": "Преодоление Харуки страха перед возвращением в пустой дом и обретение душевного пристанища в семье Кирисима.",
+      "details": "До воссоединения с Хаято Харуки регулярно вызывалась выполнять любые поручения классного руководителя до позднего вечера, чтобы оттянуть возвращение в пустой и темный дом, где она жила одна. В главе 15 она впервые ловит себя на том, что торопится после уроков, потому что теперь у нее есть место, куда хочется вернуться. После примирения с Хаято и его теплого приветствия «С возвращением» («Окаэри») она со слезами радости и сияющей улыбкой отвечает «Я дома!» («Тадайма»), окончательно принимая квартиру Кирисима как свой родной дом.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter15",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "middle_school_entrance_exams_stress",
+      "title_ru": "Подготовка к экзаменам в старшую школу и учебные будни Химэко",
+      "title_jp": "姫子の高校受験勉強と図書館での試験対策",
+      "title_en": "Himeko's High School Exam Preparation and Library Study Sessions",
+      "category": "social_environment",
+      "summary": "Напряженный период подготовки учащихся 3-го класса средней школы к вступительным экзаменам в старшую школу.",
+      "details": "В главе 15 отражены учебные реалии японских школьников выпускного класса средней школы: Химэко проводит вечера в библиотеке за совместной подготовкой к вступительным экзаменам в старшую школу вместе с одноклассницами, испытывая сильную усталость от интенсивных учебных нагрузок.",
+      "related_characters": [
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "new_city"
+      ],
+      "first_seen_chapter": "chapter15",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "aibou_childhood_pact",
+      "title_ru": "Детское соглашение «напарники» (айбо) Хаято и Харуки",
+      "title_jp": "幼馴染の「相棒」契約と絆",
+      "title_en": "Childhood 'Partner' (Aibou) Pact and Bond",
+      "category": "relationship_mechanic",
+      "summary": "Фундаментальный статус равенства, боевого соратничества и глубокого взаимного доверия между Хаято и Харуки, зародившийся в детстве в Цукиносэ.",
+      "details": "Во время поимки сбежавшего ягнёнка дедули Гэна у придорожного святилища Хаято заявляет уязвленной Харуки, что она для него — особенная: не просто девчонка, которой нельзя давать пострадать, а его незаменимый «напарник» (相棒), на которого всегда можно положиться. Харуки с сияющей улыбкой принимает это звание. Именно это соглашение лежит в основе их уникальной пацанской динамики общения, отсутствия неловкости при физическом контакте и нерушимого чувства локтя.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "tsukinose",
+        "tsukinose_roadside_shrine"
+      ],
+      "first_seen_chapter": "chapter00.5",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "tsukinose_childhood_days",
+      "title_ru": "Летние дни детства в деревне Цукиносэ",
+      "title_jp": "月ノ瀬の幼少期の夏の日々",
+      "title_en": "Summer Childhood Days in Tsukinose Village",
+      "category": "worldbuilding_setting",
+      "summary": "Беззаботные сельские будни Хаято, Харуки и Химэко до переезда в город.",
+      "details": "В тихой горной деревне Цукиносэ вдали от цивилизации троица ребят проводила знойные летние дни среди горных вершин и кучевых облаков: ловили сбежавший домашний скот («отряд по поиску ягнёнка»), лазали по оврагам, пачкали одежду грязью и ходили в ссадинах от макушки до пят, создавая бесчисленные общие воспоминания о беззаботной поре, когда они еще ничего не ведали и просто были рядом друг с другом.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "himeko_kirishima",
+        "gen_jii"
+      ],
+      "related_locations": [
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter00.5",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_romantic_jealousy_awakening",
+      "title_ru": "Пробуждение романтической ревности и чувства собственности у Харуки",
+      "title_jp": "春希の独占欲と淡い嫉妬の自覚",
+      "title_en": "Awakening of Haruki's Possessiveness and Romantic Jealousy",
+      "category": "character_growth_dynamic",
+      "summary": "Осознание Харуки глубокого чувства собственничества и уязвимости при виде внимания Хаято к другой девушке.",
+      "details": "Застав Хаято за заботливым наставничеством и дружеской улыбкой рядом с миниатюрной и фигуристой Минамо Митакэ на пришкольном огороде, а затем увидев, как он покраснел от вида её промокшей блузки, Харуки испытывает острую вспышку раздражения и досады. Хотя на людях и дома она прикрывает это ребяческим ворчанием («извращенец», «озабоченный»), наедине с собой под горячим душем она впервые формулирует свой подлинный страх: «Я испугалась, что Хаято у меня уведут!». Это знаменует качественный перелом в её восприятии Хаято: от безопасной роли друга детства и «напарника» к осознанию собственной романтической уязвимости и ревности.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima",
+        "mitake"
+      ],
+      "related_locations": [
+        "school_garden",
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "himeko_haruki_diet_alliance",
+      "title_ru": "Диетический союз Химэко и Харуки («Диетический альянс»)",
+      "title_jp": "姫子と春希のダイエット同盟",
+      "title_en": "Himeko and Haruki's Diet Alliance",
+      "category": "relationship_mechanic",
+      "summary": "Тайное соглашение между Химэко и Харуки о совместной борьбе с лишним весом после обнаружения 10%-й прибавки.",
+      "details": "Переход на городской образ жизни приводит к неожиданным последствиям для обеих героинь: Химэко не может устоять перед магазинными десертами с кремом из комбини, а Харуки регулярно берет добавку за вкусными домашними ужинами у семьи Кирисима и заедает эмоциональный стресс ночным мороженым. Обнаружив на весах шокирующую 10%-ную прибавку в весе, Химэко звонит Харуки посреди ночи и заставляет ее тоже встать на весы. Убедившись, что обе набрали вес, Химэко со зловещей решимостью провозглашает заключение «диетического союза» для совместного возвращения прежней формы.",
+      "related_characters": [
+        "himeko_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "haruki_house"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "urban_summer_microclimate_contrast",
+      "title_ru": "Контраст городской духоты и горного микроклимата Цукиносэ",
+      "title_jp": "都会の猛暑と月ノ瀬の気候の対比",
+      "title_en": "Contrast between Urban Heat Island and Tsukinose Climate",
+      "category": "worldbuilding_setting",
+      "summary": "Тяжелая переносимость городского лета переселенцами из прохладной горной деревни Цукиносэ.",
+      "details": "Хаято и Химэко тяжело адаптируются к городскому зною: в отличие от горной деревушки Цукиносэ с естественной тенью деревьев, прохладой горных рек и шелестом листвы, в городе тянется бесконечный раскаленный асфальт, навстречу дует затхлый горячий воздух из наружных блоков кондиционеров, а светофоры на дорогах постоянно требуют остановок на солнцепеке, вызывая вялость, повышенное потоотделение и духоту.",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "new_city",
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter01",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "headpatting_intimacy_gesture",
+      "title_ru": "Интимность поглаживания по голове и преодоление эмоционального голода Харуки",
+      "title_jp": "頭撫での親密性と春希の情緒的充足",
+      "title_en": "Intimacy of Headpatting and Haruki's Emotional Fulfillment",
+      "category": "character_growth_dynamic",
+      "summary": "Прорыв в тактильной и романтической близости Хаято и Харуки через спонтанную нежность в тайном убежище.",
+      "details": "Изнуренная строгой диетой и переживаниями из-за вчерашней размолвки, голодная Харуки оказывается крайне эмоционально уязвимой перед Хаято. Вспомнив совет Мори о ласке к худеющим девушкам и подстегнутый внутренней ревностью к слухам о симпатии школьного аса Кайдо, Хаято инстинктивно опускает ладонь на макушку Харуки и мягко гладит её шелковистые волосы. Этот жест производит ошеломляющий эффект: Харуки, которую никто в жизни не хвалил и не баловал подобным образом из-за строгой роли отличницы, мгновенно успокаивается, затуманивает взгляд и послушно льнет к его руке. Последующий взрыв панического смущения («запрещенный прием!») лишь подчеркивает глубокую эмоциональную силу возникшего физического контакта.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "secret_base_old_school_building"
+      ],
+      "first_seen_chapter": "chapter02",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_zero_romance_relief",
+      "title_ru": "Полное отсутствие романтического опыта у Харуки и душевное облегчение Хаято",
+      "title_jp": "春希の恋愛経験ゼロと隼人の安堵",
+      "title_en": "Haruki's Zero Romance Experience and Hayato's Relief",
+      "category": "character_growth_dynamic",
+      "summary": "Раскрытие факта нулевого романтического опыта Харуки из-за страха скандалов и полное снятие ревности Хаято.",
+      "details": "Узнав от Минамо о том, что признанный ас футбольного клуба Кадзуки Кайдо отвергает признания других девушек из-за симпатии к Харуки, Хаято переживает тяжелый приступ скрытой ревности и растерянности. Однако в тайном убежище Харуки ошеломляет его откровенным признанием: ей никто никогда не признавался, она принципиально не дает никому свой контакт и сознательно пресекает любые ухаживания, чтобы не допустить «скандалов» и защитить статус «образцовой девочки» (проводя параллель с публичными актрисами и знаменитостями). Осознание того, что сердце Харуки абсолютно свободно и у нее нет романтического прошлого, приносит Хаято огромное внутреннее облегчение, укрепляя их эксклюзивную взаимную близость.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima",
+        "kazuki_kaidou"
+      ],
+      "related_locations": [
+        "secret_base_old_school_building"
+      ],
+      "first_seen_chapter": "chapter02",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_4kg_weight_panic",
+      "title_ru": "Острое переживание Харуки прибавки в 4 килограмма",
+      "title_jp": "春希の４キロ増量への危機感と具体例",
+      "title_en": "Haruki's 4kg Weight Gain Crisis and Concrete Metaphors",
+      "category": "character_growth_dynamic",
+      "summary": "Наглядная материализация лишнего веса в сознании Харуки и причина перехода на жесткую диету.",
+      "details": "Обнаружив прибавку в 4 килограмма (около 10% от массы тела) из-за вкусных сытных ужинов у Кирисимы и ночных заеданий стресса, Харуки отвергает замечание Хаято о том, что визуально её фигура ничуть не изменилась. Чтобы донести свой ужас до практичного деревенского парня, она переводит эту цифру в осязаемые бытовые эквиваленты: «четыре литровых пакета молока, шесть или семь журналов манги, средний арбуз или целый мешочек риса». Это заставляет её сесть на жесткий рацион из 68-калорийного куриного батончика и овощного сока, провоцируя приступы урчания в животе, упадок сил и эмоциональную уязвимость.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "secret_base_old_school_building"
+      ],
+      "first_seen_chapter": "chapter02",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "mitake_family_diet_cooking",
+      "title_ru": "Оздоровительная диетическая кухня Минамо для дедушки",
+      "title_jp": "水藻の祖父向けヘルシー料理と家庭的ケア",
+      "title_en": "Minamo's Healthy Diet Cooking for Her Grandfather",
+      "category": "culinary_and_lifestyle",
+      "summary": "Приготовление Минамо здоровой низкожировой пищи для больного дедушки как точка кулинарного сближения с Хаято.",
+      "details": "Пока Хаято ломает голову над диетическим меню для сестры и Харуки, умея готовить лишь сытные калорийные мужские закуски, Минамо делится своим семейным опытом: она регулярно готовит полезные, маложирные и сбалансированные блюда, которые любит её дедушка, находящийся на лечении в городской больнице. Это открывает новый виток их дружеской кулинарной взаимовыручки (после рецепта маринованных баклажанов Хаято) и дает Хаято надежный источник низкокалорийных рецептов.",
+      "related_characters": [
+        "mitake",
+        "grandfather_mitake",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "school_garden",
+        "hospital"
+      ],
+      "first_seen_chapter": "chapter02",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "saki_murao_shrine_maiden_heritage",
+      "title_ru": "Происхождение Саки Мурао и жреческий род эпохи Хэйан",
+      "title_jp": "村尾咲の出自と平安時代から続く社家",
+      "title_en": "Saki Murao's Shrine Maiden Heritage and Heian Lineage",
+      "category": "worldbuilding_setting",
+      "summary": "Древняя родословная семьи Саки Мурао, статус деревенского «идола» в Цукиносэ и исполнение священного танца кагура.",
+      "details": "Семья Саки Мурао принадлежит к древнему синтоистскому жреческому роду (社家), непрерывно служащему святилищу горной деревни Цукиносэ со времен эпохи Хэйан. Благодаря утонченной внешности (бледная фарфоровая кожа, светлые льняные волосы) и кроткому нраву деревенские старики баловали Саки как родную внучку, сделав её признанным «сельским идолом». Главная сакральная обязанность Саки — исполнение ритуального танца кагура на ежегодном деревенском фестивале в священном облачении мико (белое кимоно, алая хакама и прозрачная накидка тихая с золотым шитьем). Это зрелище оставило неизгладимый след в сердце Хаято, став для него символом божественной чистоты.",
+      "related_characters": [
+        "saki_murao",
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "tsukinose",
+        "tsukinose_shrine"
+      ],
+      "first_seen_chapter": "chapter03",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "saki_murao_kuudere_dynamic",
+      "title_ru": "Парадокс поведения Саки Мурао: паника наяву и ночная забота в переписке",
+      "title_jp": "村尾咲のクーデレ二面性（対面恐怖と深夜の献身）",
+      "title_en": "Saki Murao's Kuudere Duality: In-Person Panic vs Midnight Dedication",
+      "category": "relationship_mechanic",
+      "summary": "Сложная двойственная динамика чувств Саки Мурао к Хаято Кирисиме: немота и бегство при личных встречах против мгновенных ответов, ночных кулинарных изысканий и отправки личного фото мико.",
+      "details": "В детстве в деревне Цукиносэ Саки панически терялась в присутствии Хаято (единственного парня-ровесника), прячась за спину Химэко или убегая, из-за чего Химэко ошибочно подозревала брата в хулиганских выходках. Однако при первой же дистанционной коммуникации через мессенджер выясняется истинная глубина её тайных чувств (классический архетип кудэрэ): получив контакт Хаято, Саки пишет мгновенно («Что случилось?»). Узнав о диете Химэко, она отвечает нарочито сухо и сдержанно («Понятно», «И это всё?»), но затем глубокой ночью ищет и компонует идеальные диетические рецепты (паста из сиратаки, куриная грудка, грибной омурайс). Более того, она решается прикрепить к рецептам свою личную фотографию в полном парадном облачении мико с фестиваля, открыто улыбаясь на камеру и робко спрашивая его оценку («Что думаешь?»).",
+      "related_characters": [
+        "saki_murao",
+        "hayato_kirishima",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "kirishima_apartment",
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter03",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "kirishima_diet_cooking_struggle",
+      "title_ru": "Кулинарные поиски Хаято: баланс нутриентов против эстетики подачи",
+      "title_jp": "隼人のダイエット料理研究と「居酒屋のつまみ」問題",
+      "title_en": "Hayato's Diet Cooking Struggle: Nutritional Balance vs Izakaya Presentation",
+      "category": "cultural_custom",
+      "summary": "Попытка Хаято составить низкокалорийное диетическое меню для Химэко и Харуки, столкнувшаяся с эстетическим неприятием «барных закусок».",
+      "details": "Получив ультиматум от Химэко, Хаято тщательно изучает принципы диетологии: высокое содержание белка, минимум углеводов и калорий, обилие клетчатки. Однако его привычный репертуар, сформированный на деревенских застольях со взрослыми, приводит к созданию идеального набора закусок к пиву (эдамамэ, холодный тофу, помидоры, огурцы с острым мисо и куриная кожица с пондзу). Девушки съедают всё дочиста, но забраковывают подачу («сплошные закуски для бара»). Это побуждает Хаято искать советы у Минамо (узнавая об избыточной калорийности фритюрного агэбитаси) и Саки Мурао (получая эстетичные рецепты пасты из сиратаки и грибного омурайса).",
+      "related_characters": [
+        "hayato_kirishima",
+        "himeko_kirishima",
+        "haruki_nikaido",
+        "mitake",
+        "saki_murao"
+      ],
+      "related_locations": [
+        "kirishima_apartment"
+      ],
+      "first_seen_chapter": "chapter03",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_nikaido_possessiveness_and_vulnerability",
+      "title_ru": "Эмоциональная уязвимость и скрытое чувство собственности Харуки по отношению к Хаято",
+      "title_jp": "春希の独占欲と情緒的脆弱性（「奪われた」感覚）",
+      "title_en": "Haruki Nikaido's Possessiveness and Emotional Vulnerability",
+      "category": "character_growth_dynamic",
+      "summary": "Острое переживание Харуки одиночества и скрытой ревности, когда Хаято оказывается в центре внимания одноклассников и школьного кумира Кайдо.",
+      "details": "Когда Хаято окружают одноклассники, а за обедом к ним присоединяется звезда школы Кадзуки Кайдо, Харуки сталкивается с незнакомым для себя чувством покинутости и эмоционального отчуждения («Хаято попался... словно его у меня отняли»). Оставшись одна в пустом тайном убежище за сухим куриным батончиком, она смотрит на пустующую подушку Хаято и невольно касается волос, вспоминая вчерашнюю нежность его поглаживания. Не находя себе места, она бессознательно устремляется к школьному огороду, куда собирался вступить Хаято, что обнажает её глубокую эмоциональную зависимость от его присутствия и скрытое стремление быть единственной в его жизни.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima",
+        "kazuki_kaidou"
+      ],
+      "related_locations": [
+        "secret_base_old_school_building",
+        "class_1a",
+        "school_garden"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_minamo_gardening_breakthrough",
+      "title_ru": "Перелом в отношениях Харуки и Минамо: искренность через труд на земле и философия овощей",
+      "title_jp": "春希と水藻の和解と土いじりの哲学",
+      "title_en": "Breakthrough between Haruki and Minamo: Sincerity through Gardening and Philosophy of Vegetables",
+      "category": "relationship_mechanic",
+      "summary": "Преодоление ревности и отчуждения между Харуки и Минамо благодаря чистосердечной доброте Минамо и совместному пасынкованию баклажанов.",
+      "details": "Оказавшись на пришкольном огороде в плену тревоги и самоедства, Харуки срывается и взъерошивает волосы перед Минамо. Робкая Минамо, испугавшись за душевное состояние «идеальной отличницы», проявляет удивительную заботу: надевает на Харуки свою соломенную шляпу, вручает секатор и увлекает в обрезку боковых побегов баклажанов («стрижку для овощей»). Перепачканные землей, девушки находят общий язык, и Минамо открывает личную тайну: пережив тяжелое горе, она увидела, как урчание голодного желудка и жизненная сила овощей (которые, в отличие от обычных цветов, после цветения лишь начинают жить и плодоносить) помогли ей оправиться. Бесхитростная доброта Минамо без скрытых умыслов разрушает защитные барьеры Харуки, вызывая восхищение и желание дружить.",
+      "related_characters": [
+        "haruki_nikaido",
+        "mitake",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "school_garden"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "kaidou_kazuki_true_motives_and_hayato_friendship",
+      "title_ru": "Харизма Кадзуки Кайдо, природа школьных слухов и зарождение дружбы с Хаято",
+      "title_jp": "海堂一樹の真意とカリスマ性、隼人との友情の芽生え",
+      "title_en": "Kazuki Kaidou's True Motives, Charisma, and Friendship with Hayato",
+      "category": "social_environment",
+      "summary": "Проницательность Харуки относительно мотивов Кайдо, открытость Кайдо к Хаято и его неожиданные отаку-увлечения.",
+      "details": "Школьная молва приписывает асу футбольного клуба Кадзуки Кайдо романтические чувства к недосягаемой отличнице Харуки Никайдо. Однако Харуки безошибочно понимает, что Кайдо не испытывает к ней симпатии, а использует слух как удобное прикрытие от признаний других девушек — ровно так же, как она сама использует роль «ямато-надэсико». Вместо сближения с Харуки Кайдо проявляет неподдельный интерес к атлетичному новичку Хаято Кирисиме, который со страстью защищает садоводство и овощи причудливой формы. Кайдо не держит зла за вмешательство Хаято, лично приходит к нему на обеде с бэнто, непринужденно делится симпатией к костюмам горничных (мэйд), мико и фестивалям, демонстрируя выдающуюся харизму и искренность, завоевывающие доверие одноклассников.",
+      "related_characters": [
+        "kazuki_kaidou",
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "iori_mori"
+      ],
+      "related_locations": [
+        "class_1a",
+        "student_council_room"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "hayato_haruki_private_sanctuary_nostalgia",
+      "title_ru": "Личное пространство у Харуки дома: побег от суеты и ностальгия по детству в Цукиносэ",
+      "title_jp": "春希の部屋でのリラックスと月ノ瀬の幼少期の記憶",
+      "title_en": "Private Sanctuary in Haruki's Room and Childhood Nostalgia of Tsukinose",
+      "category": "relationship_mechanic",
+      "summary": "Возвращение Харуки и Хаято к беззаботной детской динамике за видеоиграми в её комнате после побега из школы.",
+      "details": "Спасая Хаято от навязанного похода в мэйд-кафе, Харуки уводит его из школы к себе домой. В ее комнате они окончательно сбрасывают маски и обувь: включают кондиционер на полную мощность, бросают носки и устраиваются на полу за кооперативной экшен-РПГ. Теплые слова разомлевшего Хаято («Иногда вот так посидеть — тоже неплохо») согревают сердце Харуки. Их озорные улыбки с геймпадами в руках зеркально повторяют общие детские секреты из деревни Цукиносэ (поляна цветущей ипомеи, запуск плоских камушков-блинчиков по реке, убежище в заброшенном святилище), подтверждая нерушимость их душевной связи.",
+      "related_characters": [
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "haruki_house",
+        "tsukinose"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "summer_festival_yukata_culture",
+      "title_ru": "Культура летних фестивалей, очарование юката и демографический упадок Цукиносэ",
+      "title_jp": "夏祭りと浴衣文化、そして月ノ瀬の過疎化",
+      "title_en": "Summer Festival Yukata Culture and Tsukinose Depopulation",
+      "category": "worldbuilding_setting",
+      "summary": "Споры старшеклассников об эстетике девушек в юката перед летним праздником и ностальгия Хаято по опустевшей деревне Цукиносэ.",
+      "details": "В классе 1-А разгорается бурное обсуждение приближающегося летнего фестиваля (мацури) и девичьего очарования в традиционных летних юката: парни восторгаются изяществом открытой шеи, прическами и особой соблазнительностью наряда, делающего девушек «в полтора раза милее». Кокетливая реплика Харуки о юката вызывает шквал эмоциональных признаний. Для Хаято же тема фестивалей окрашена грустной ностальгией: в его родной горной деревне Цукиносэ из-за депопуляции и оттока молодежи в последние годы юката уже некому было носить, подчеркивая социальный контраст между живым городом и угасающей провинцией.",
+      "related_characters": [
+        "hayato_kirishima",
+        "haruki_nikaido",
+        "iori_mori",
+        "class_1a_students"
+      ],
+      "related_locations": [
+        "class_1a",
+        "tsukinose",
+        "new_city"
+      ],
+      "first_seen_chapter": "chapter04",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "reliable_back_and_himeko_catharsis",
+      "title_ru": "Символизм надёжной спины и эмоциональное освобождение Химэко",
+      "title_jp": "頼もしい背中の象徴と姫子の葛藤の解消（カタルシス）",
+      "title_en": "Symbolism of a Reliable Back and Himeko's Emotional Catharsis",
+      "category": "relationship_mechanic",
+      "summary": "Осознание Химэко истинной природы отношений Хаято и Харуки через образ надёжной спины и освобождение от застарелой детской ревности.",
+      "details": "В детстве в деревне Цукиносэ и в городе Химэко чувствовала покой и защиту за надежной спиной Харуки, которая заслоняла её от напастей (включая толпу назойливых старшеклассниц и бросок наперерез собаке). Химэко признает, почему ей так нравилась спина подруги. Однако, когда на зов о помощи прибегает Хаято и привычным жестом подхватывает хромающую Харуки на спину (точь-в-точь как в детстве, когда та поранилась в горах или потеряла сандалии в реке), Химэко осеняет истина: пока сама Химэко смотрела на спину Харуки, Харуки всегда неотрывно смотрела на спину Хаято. Это открытие снимает эмоциональную занозу из сердца Химэко, позволяя ей искренне принять их взаимную связь и шагнуть вперёд со светлой душой.",
+      "related_characters": [
+        "himeko_kirishima",
+        "haruki_nikaido",
+        "hayato_kirishima"
+      ],
+      "related_locations": [
+        "neighborhood_park",
+        "tsukinose",
+        "station_shopping_street"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_minamo_official_friendship",
+      "title_ru": "Официальное признание дружбы Харуки и Минамо («школьные друзья по огороду»)",
+      "title_jp": "春希と水藻の友情の公認（「学校と園芸の友達」）",
+      "title_en": "Official Recognition of Friendship between Haruki and Minamo ('School Gardening Friends')",
+      "category": "relationship_mechanic",
+      "summary": "Окончательное преодоление психологической дистанции между Харуки и Минамо Митакэ и официальное скрепление их дружбы вне стен школы.",
+      "details": "После инцидента с сорвавшимся псом Рэнто, ради спасения которого Харуки бросилась наперерез и подвернула ногу, Минамо становится свидетельницей живой и раскованной перепалки Харуки и Химэко. Заметив, как сильно Харуки отличается от своего школьного образа идеальной отличницы, Минамо искренне улыбается. Смущенная реакцией Минамо на слово «подруга» («Да что вы, какая из меня подруга!»), Харуки протягивает руку и вслух утверждает их равенство и близость: «Подруги… Ну да, друзья по школе и по огороду, правда ведь?!» (学校と園芸の友達). Крепкое рукопожатие окончательно закрепляет их союз и доверие.",
+      "related_characters": [
+        "haruki_nikaido",
+        "mitake",
+        "himeko_kirishima"
+      ],
+      "related_locations": [
+        "neighborhood_park",
+        "school_garden"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "himeko_hayato_sibling_perception_gap",
+      "title_ru": "Контраст восприятия Хаято: семейное занудство против девичьего идеала",
+      "title_jp": "霧島兄妹の認識ギャップ（家族の口うるささと女子生徒の理想像）",
+      "title_en": "Gap in Hayato's Perception: Domestic Nagging vs Classmates' Ideal",
+      "category": "social_environment",
+      "summary": "Комичный разрыв между привычным для Химэко образом старшего брата-зануды и восторженным идеалом заботливого кулинара в глазах городских школьниц.",
+      "details": "Химэко воспринимает старшего брата Хаято как назойливого, вечно ворчащего и бестактного парня со взъерошенными волосами и старомодной соломенной шляпой, совершенно не годящегося на роль романтического героя. Однако, когда подруга Хонока пробует диетический омурайс из её бэнто (приготовленный с окарой и грибами), одноклассницы приходят в экстаз: старшеклассник, который вкусно готовит, убирается в комнате и заботится о сестре, единодушно признается идеалом («десять из десяти»). Этот шквал расспросов повергает Химэко в искреннее недоумение.",
+      "related_characters": [
+        "himeko_kirishima",
+        "hayato_kirishima",
+        "honoka_torikai",
+        "middle_school_classmates"
+      ],
+      "related_locations": [
+        "middle_school"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    },
+    {
+      "id": "haruki_private_persona_shared_secret",
+      "title_ru": "Подлинная сущность Харуки как «маленький общий секрет»",
+      "title_jp": "春希の素顔と「二人だけの秘密」",
+      "title_en": "Haruki's True Persona as a 'Shared Secret'",
+      "category": "relationship_mechanic",
+      "summary": "Осознание Химэко контраста между публичным фасадом Харуки и ее настоящим характером, превращающее их общение в доверительный союз.",
+      "details": "Впервые возвращаясь вместе домой после уроков, Химэко видит, как Харуки общается со своими старшеклассницами («на людях я примерно такая и есть»), и подмечает, что знание её подлинной раскованной натуры — это их «маленький секрет». Харуки с восторгом и сияющей улыбкой подхватывает эту мысль («Секрет… Ага, наш секрет!»). Это признание взаимного доверия сближает девушек, подчеркивая особое положение семьи Кирисима как единственных хранителей истинного «я» Харуки.",
+      "related_characters": [
+        "himeko_kirishima",
+        "haruki_nikaido"
+      ],
+      "related_locations": [
+        "station_shopping_street"
+      ],
+      "first_seen_chapter": "chapter05",
+      "validation_status": "confirmed"
+    }
+  ]
+}

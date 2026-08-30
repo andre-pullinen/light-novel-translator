@@ -1,0 +1,36 @@
+{
+  "project": "tenbin",
+  "volume": "volume01",
+  "chapter": "chapter04",
+  "source_file": "source/tenbin/volume01/chapter04.txt",
+  "total_words": 1806,
+  "total_chars": 12450,
+  "total_lines": 392,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": "SEG_01",
+      "file": "SEG_01.md",
+      "word_count": 550,
+      "char_count": 3780,
+      "has_scene_break_end": false,
+      "preceding_context_summary": null
+    },
+    {
+      "id": "SEG_02",
+      "file": "SEG_02.md",
+      "word_count": 620,
+      "char_count": 4270,
+      "has_scene_break_end": true,
+      "preceding_context_summary": "Лиам и Кайл встретились у ворот. Кайл передал кристалл связи с сообщением от Элоры о тревоге."
+    },
+    {
+      "id": "SEG_03",
+      "file": "SEG_03.md",
+      "word_count": 636,
+      "char_count": 4400,
+      "has_scene_break_end": false,
+      "preceding_context_summary": "Лиам прибыл в главный зал гильдии, где собрались командиры отрядов."
+    }
+  ]
+}

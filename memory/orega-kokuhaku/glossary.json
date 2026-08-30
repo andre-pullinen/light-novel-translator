@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "id": "term_ojou_sama",
+      "term_jp": "お嬢様 / お嬢",
+      "term_en": "Ojou / Ojou-sama",
+      "term_ru": "«юная госпожа» / «госпожа»",
+      "category": "cultural_concept",
+      "validation_status": "confirmed",
+      "occurrences_count": 18,
+      "description": "Традиционное японское обращение к молодой госпоже / дочери благородной или богатой семьи. В русском переводе обязательно адаптируется как «юная госпожа» / «госпожа» (без транслитерации «одзё-сама» в соответствии с правилом обязательного перевода титулов и социальных ролей)."
+    },
+    {
+      "id": "term_tendou_group",
+      "term_jp": "天堂グループ",
+      "term_en": "Tendou Group",
+      "term_ru": "«Тэндо Групп» / корпорация «Тэндо Групп»",
+      "category": "organization",
+      "validation_status": "confirmed",
+      "occurrences_count": 3,
+      "description": "Всемирно известный финансово-промышленный конгломерат (дзайбацу/кэйрэцу), принадлежащий семье Тэндо. Обладает колоссальным финансовым могуществом и международным влиянием."
+    },
+    {
+      "id": "term_dorobou_neko",
+      "term_jp": "泥棒猫",
+      "term_en": "Thieving cats",
+      "term_ru": "вороватые кошки",
+      "category": "idiom",
+      "validation_status": "confirmed",
+      "occurrences_count": 5,
+      "description": "Японская идиома/жаргонизм (дословно «кошка-воровка»), используемый Хосинэ в значении «соперницы / наглые девицы, пытающиеся увести/соблазнить чужого возлюбленного». Хосинэ называет так всех девушек вокруг Эйто, а Хабатаки Отоху считает «новой грозной вороватой кошкой» высшей степени опасности."
+    },
+    {
+      "id": "term_guardian_of_tendou",
+      "term_jp": "天堂家の護衛",
+      "term_en": "Guardian of the Tendou family",
+      "term_ru": "страж семьи Тэндо",
+      "category": "role_title",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Официальный статус и долг Эйто как личного телохранителя и защитника семьи Тэндо. Ради этой роли Эйто прошёл жёсткую закалку духа и боевую подготовку под руководством главы семьи."
+    },
+    {
+      "id": "term_internal_external_students",
+      "term_jp": "内部生 / 外部生",
+      "term_en": "internal students / external students",
+      "term_ru": "«внутренние» ученики / «внешние» ученики",
+      "category": "academic",
+      "validation_status": "confirmed",
+      "occurrences_count": 6,
+      "description": "Ученики академии «Тэндзёин»: «внутренние» — перешедшие из средней школы по сквозной системе; «внешние» — поступившие со стороны через вступительные экзамены."
+    },
+    {
+      "id": "term_kabedon",
+      "term_jp": "壁ドン",
+      "term_en": "kabedon",
+      "term_ru": "кабэдон",
+      "category": "slang",
+      "validation_status": "confirmed",
+      "occurrences_count": 4,
+      "description": "Прижимание к стене рукой (популярный романтический приём в сёдзё-манге и аниме)."
+    }
+  ]
+}

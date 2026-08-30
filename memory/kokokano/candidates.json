@@ -1,0 +1,74 @@
+[
+  {
+    "id": "term_nabacchi",
+    "term_jp": "なばっち",
+    "term_en": "Nabacchi",
+    "term_ru": "Набатти",
+    "category": "nickname",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Дружеское прозвище Котори Набаты, используемое девушками из верхушки класса («первой касты»).",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  },
+  {
+    "id": "term_futaba_coffee",
+    "term_jp": "フタバ珈琲",
+    "term_en": "Futaba Coffee",
+    "term_ru": "кофе «Футаба»",
+    "category": "food_beverage",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Фирменный кофе и напитки популярной сетевой кофейни «Футаба» в ТРК «Голдфиш».",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  },
+  {
+    "id": "term_order_spell",
+    "term_jp": "注文の呪文",
+    "term_en": "Order chant / spell",
+    "term_ru": "заклинание заказа",
+    "category": "cultural_concept",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Шутливо-ироничное обозначение длинных и сложных формулировок заказов напитков с модификаторами в модных сетевых кофейнях вроде «Футабы», вызывающее ужас у застенчивой Котори.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  },
+  {
+    "id": "term_short_white_mocha_decaf",
+    "term_jp": "ショートホワイトモカノンファットミルクデカフェ",
+    "term_en": "Short White Mocha Nonfat Milk Decaf",
+    "term_ru": "Шорт вайт мокка на обезжиренном молоке без кофеина",
+    "category": "food_beverage",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Длинное наименование сложного кофейного напитка в кофейне «Футаба», которое Котори заучила наизусть как заклинание для заказа.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  },
+  {
+    "id": "term_strawberry_mix_milk",
+    "term_jp": "苺のミックスミルク",
+    "term_en": "Strawberry Mix Milk",
+    "term_ru": "Клубничный микс-милк",
+    "category": "food_beverage",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Сезонный напиток-новинка в меню кофейни «Футаба», ради которого подруги из верхушки класса позвали Котори после уроков.",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  },
+  {
+    "id": "term_stretching_cat_sticker",
+    "term_jp": "伸びをする猫のスタンプ",
+    "term_en": "Stretching cat sticker",
+    "term_ru": "стикер с потягивающимся котом",
+    "category": "signal_code",
+    "validation_status": "provisional",
+    "occurrences_count": 1,
+    "description": "Тайный условный знак между Котори и Такуми: стикер в мессенджере с изображением потягивающегося кота, означающий экстренный запрос на проведение «рутины».",
+    "type": "glossary",
+    "first_seen_chapter": "chapter01"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "project": "<project_name>",
+  "volume": "<volume_id>",
+  "chapter": "<chapter_id>",
+  "proposals": {
+    "characters": [
+      {
+        "action": "ADD",
+        "validation_status": "provisional",
+        "occurrences_count": 1,
+        "entry": {
+          "id": "character_id",
+          "name_jp": "名前",
+          "name_en": "Name",
+          "name_ru": "Имя",
+          "gender": "male",
+          "age_group": "teenager",
+          "role": "Роль",
+          "status": "active",
+          "validation_status": "provisional",
+          "occurrences_count": 1,
+          "speech_summary": "Особенности речи"
+        },
+        "evidence": "Цитата из текста главы."
+      }
+    ],
+    "glossary": [
+      {
+        "action": "ADD",
+        "validation_status": "provisional",
+        "occurrences_count": 1,
+        "entry": {
+          "id": "term_id",
+          "term_jp": "用語",
+          "term_en": "Term",
+          "term_ru": "термин",
+          "category": "category_name",
+          "validation_status": "provisional",
+          "occurrences_count": 1,
+          "description": "Описание"
+        },
+        "evidence": "Цитата из текста главы."
+      }
+    ],
+    "locations": [],
+    "relationships": [],
+    "lore": [
+      {
+        "action": "ADD",
+        "validation_status": "confirmed",
+        "entry": {
+          "id": "lore_id",
+          "title_ru": "Заголовок лора",
+          "title_jp": "設定タイトル",
+          "title_en": "Lore Title",
+          "category": "worldbuilding_setting",
+          "summary": "Краткая суть факта",
+          "details": "Подробное описание обстоятельств и влияния на сюжет.",
+          "related_characters": ["character_id"],
+          "related_locations": ["location_id"],
+          "validation_status": "confirmed"
+        },
+        "evidence": "Цитата из текста главы."
+      }
+    ]
+  }
+}

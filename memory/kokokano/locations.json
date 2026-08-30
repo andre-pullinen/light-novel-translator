@@ -1,0 +1,54 @@
+{
+  "locations": [
+    {
+      "id": "location_misasagi_high_school",
+      "name_jp": "私立陵高校",
+      "name_en": "Misasagi Private Academy High School",
+      "name_ru": "Частная старшая школа «Мисасаги»",
+      "category": "educational_institution",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Старшая школа на окраине провинциального городка у подножия гор. Место учёбы Такуми Хасио и Котори Набаты в классе 1-3."
+    },
+    {
+      "id": "location_class_1_3",
+      "name_jp": "1年3組",
+      "name_en": "First Year, Class 3",
+      "name_ru": "Класс 1-3 (первый год обучения, третий класс)",
+      "category": "classroom",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Классная комната, где учатся главные герои; место социального разделения: Котори в центре внимания элиты, Такуми в дальнем углу."
+    },
+    {
+      "id": "location_goldfish_mall",
+      "name_jp": "ゴールドフィッシュモール",
+      "name_en": "Goldfish Mall",
+      "name_ru": "Торгово-развлекательный комплекс «Голдфиш»",
+      "category": "commercial_building",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Крупнейший в регионе торгово-развлекательный комплекс с более чем двумястами магазинами и кинотеатром. Место, куда Такуми и Котори ходили с детства; там же находится кофейня «Футаба»."
+    },
+    {
+      "id": "location_futaba_cafe",
+      "name_jp": "フタバ",
+      "name_en": "Futaba Cafe",
+      "name_ru": "Кофейня «Футаба»",
+      "category": "cafe",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Популярная сетевая кофейня в ТРК «Голдфиш», модное заведение с длинными замысловатыми названиями напитков («Short White Mocha Nonfat Milk Decaf»). Место встречи верхушки класса, куда пригласили Котори."
+    },
+    {
+      "id": "location_kotori_room",
+      "name_jp": "小鳥の部屋",
+      "name_en": "Kotori's Room",
+      "name_ru": "Комната Котори",
+      "category": "residence",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Комната в доме семьи Набата. Смесь сёнен-манги, фигурок, журналов мод и косметики. Место проведения тайной «рутины» с Такуми."
+    }
+  ]
+}

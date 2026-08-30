@@ -1,0 +1,44 @@
+{
+  "glossary": [
+    {
+      "id": "term_lone_ice_princess",
+      "term_jp": "孤高の氷姫",
+      "term_en": "Lone Ice Princess",
+      "term_ru": "Одинокая ледяная принцесса / Неприступная ледяная принцесса",
+      "category": "nickname",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Школьное прозвище Котори Набаты среди парней и одноклассников за её холодную, немногословную и неприступную манеру поведения."
+    },
+    {
+      "id": "term_a_listers",
+      "term_jp": "一軍女子 / 一軍",
+      "term_en": "A-listers / Top-tier girls",
+      "term_ru": "«первая каста» / верхушка класса / элита класса",
+      "category": "social_concept",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Неформальная социальная верхушка класса в японской школе: самые яркие, модные, привлекательные и уверенные в себе ученицы и ученики, куда вошла Котори после дебюта в старшей школе."
+    },
+    {
+      "id": "term_routine",
+      "term_jp": "ルーティン",
+      "term_en": "Routine",
+      "term_ru": "рутина",
+      "category": "psychological_concept",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Термин из спорта (ритуал концентрации). В отношениях Такуми и Котори — интимный ритуал (механический секс без поцелуев и слов о любви), вызываемый стикером с потягивающимся котом и необходимый Котори для подавления паники и обретения уверенности перед важными социальными событиями."
+    },
+    {
+      "id": "term_high_school_conquest",
+      "term_jp": "高校征服",
+      "term_en": "Conquering high school",
+      "term_ru": "покорение старшей школы",
+      "category": "personal_goal",
+      "validation_status": "confirmed",
+      "occurrences_count": 2,
+      "description": "Сверхцель Котори: стать популярной, завести друзей и парня, прожить яркую школьную жизнь назло обидчикам из средней школы."
+    }
+  ]
+}

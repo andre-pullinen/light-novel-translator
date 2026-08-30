@@ -1,0 +1,28 @@
+{
+  "project": "<project_name>",
+  "volume": "<volume_id>",
+  "chapter": "<chapter_id>",
+  "source_file": "source/<project>/<volume>/<chapter>.txt",
+  "total_words": 0,
+  "total_chars": 0,
+  "total_lines": 0,
+  "segment_count": 0,
+  "segments": [
+    {
+      "id": "SEG_01",
+      "file": "SEG_01.md",
+      "word_count": 500,
+      "char_count": 3200,
+      "has_scene_break_end": false,
+      "preceding_context_summary": null
+    },
+    {
+      "id": "SEG_02",
+      "file": "SEG_02.md",
+      "word_count": 520,
+      "char_count": 3400,
+      "has_scene_break_end": false,
+      "preceding_context_summary": "Последние 2 абзаца SEG_01..."
+    }
+  ]
+}
